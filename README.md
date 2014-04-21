@@ -2,7 +2,7 @@ django-test
 ===========
 
 * this is bullet
-* this is another buulet
+* this is another bullet
 
 _what is this_
 
